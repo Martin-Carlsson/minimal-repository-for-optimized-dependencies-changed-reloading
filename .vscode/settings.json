@@ -1,0 +1,14 @@
+{
+  "workbench.editor.labelFormat": "short",
+  "workbench.tree.indent": 16,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.stickyScroll.enabled": false,
+  "workbench.tree.enableStickyScroll": false,
+  "scss.validate": false,
+  "css.validate": false,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode",
+    "editor.formatOnSave": true
+  }
+}
